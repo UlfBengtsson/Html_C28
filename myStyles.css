@@ -1,0 +1,15 @@
+body {
+  background-color: blanchedalmond;
+}
+
+section {
+  background-color: #aabbcc;
+}
+
+#dangerText {
+  color: red;
+}
+
+.goldenText {
+  color: gold;
+}
